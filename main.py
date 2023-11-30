@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-import opencv-python as cv2
+import cv2
 import mediapipe as mp
 import pyautogui
 
